@@ -1,5 +1,2 @@
 hello -1
-
-error
-error
-error
+success
